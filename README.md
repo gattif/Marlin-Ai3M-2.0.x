@@ -50,7 +50,7 @@ I provided three different precompiled hex files: One for no modifications on th
 
 ### Choose your precompiled hex:
 
-- Download the precompiled firmware here: [Releases](https://github.com/davidramiro/Marlin-AI3M/releases)
+- Download the precompiled firmware here: [Releases](https://github.com/davidramiro/Marlin-Ai3M-2.0.x/releases)
 - Choose the correct hex file:
 - For TMC2208 with connectors in original orientation, use `Marlin-AI3M-vx.x.x-TMC2208.hex`
 - If you use TMC2208 and already reversed your connectors, use `Marlin-AI3M-vx.x.x-TMC2208_reversed.hex`
